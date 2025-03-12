@@ -11,6 +11,8 @@ A dynamic 2D snowboarding game built in Unity where players slide down procedura
     _Nguyễn Minh Thành
 
 ## Core Features
+![pic (5)](https://github.com/user-attachments/assets/9ddcaa8a-b341-423b-a221-0637349a7028)
+![pic (4)](https://github.com/user-attachments/assets/7db1160d-42df-42bb-935c-af3e16a42308)
 
 ### Player Mechanics
 - **Smooth Physics-Based Movement**: Control a snowboarder with realistic momentum and gravity
@@ -49,11 +51,13 @@ A dynamic 2D snowboarding game built in Unity where players slide down procedura
 - **Coin Collection**: Gather coins to increase your score
 - **Obstacles**: Navigate around spikes and other hazards
 - **Death Detection**: Game ends when player crashes into obstacles or hazardous terrain
+![Uploading pic (2).png…]()
 
 ### Visual Effects
 - **Snow Particles**: Dynamic particle effects based on speed and terrain
 - **Farthest Point Marker**: Visual indicator showing your record distance
 - **Record Notifications**: Animated notifications when breaking records
+![pic (3)](https://github.com/user-attachments/assets/041e29e2-9e15-4184-bbb2-d0e0826aa527)
 
 ## Game Flow
 1. Start from the main menu
